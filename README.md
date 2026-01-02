@@ -4,3 +4,5 @@ This is a school project, a Python-based machine learning model to predict tsuna
 and TensorFlow for data preprocessing, model training, and evaluation.
 
 This Model uses synthetic data, so the data is generated and not based on real tusmanis that occured. 
+
+The in-depth data anaylsis of the project is inside the ipynb file.
